@@ -1,0 +1,1 @@
+A simple project demonstrating how to save data in godot
